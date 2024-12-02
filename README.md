@@ -1,4 +1,4 @@
-# SUTI: A Multi-Modal Benchmark for Vision-based Small UAV Target Detection and Tracking presented by IOMD
+# SUTI: A multi-modal benchmark for vision-based Small UAV Target detection and tracking presented by IOMD
 * A dataset proposed in "SUTI: A multi-modal benchmark and baseline for vision-based small UAV target detection and tracking" (submitted to IEEE TGRS).
 * A dataset presented by Shenzhen Key Laboratory of Intelligent Optical Measurement and Detection, Shenzhen University.
 * Welcome to apply for our group's Master's and Doctoral programs if you are interested in **VISUAL NAVIGATION** or **PATTERN RECOGNITION**. About applications, please feel free to contact us at sydpan@qq.com (Dr. Pan) and yueqiang.zhang@szu.edu.cn (Prof. Zhang, Group Leader).
