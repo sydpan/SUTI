@@ -5,6 +5,9 @@
 ## Update
 * Two additional sequences are being labeled. ----2024.12.02
 
+# Download
+* [Baidu](https://pan.baidu.com/s/1OB4dMpYwlghDCzP0rn9urQ?pwd=IOMD)
+
 # Citation
 ```
 @article{TGRS23OSCAR,
