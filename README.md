@@ -5,10 +5,11 @@
 ## Update
 * Two additional sequences are being labeled. ----2024.12.02
 
-# Download
-* [Baidu](https://pan.baidu.com/s/1OB4dMpYwlghDCzP0rn9urQ?pwd=IOMD)
+## Download
+* [Baidu Netdisk](https://pan.baidu.com/s/1OB4dMpYwlghDCzP0rn9urQ?pwd=IOMD)
+* [Google Drive](https://drive.google.com/file/d/17eoHmmm6vI_shQHcxjXpvQ53pNaBvPz0/view?usp=sharing)
 
-# Citation
+## Citation
 ```
 @article{TGRS23OSCAR,
   author    = {{Pan}, Shuixin and {Li}, Dilong and {Zhang}, Yueqiang and {Liu}, Xiaolin and {Yu}, Qifeng},
